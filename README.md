@@ -1,6 +1,6 @@
 # react-admin-dashboard v2.0
 
-**Live demo**: [https://llorentegerman.github.io/react-admin-dashboard/](https://llorentegerman.github.io/react-admin-dashboard/)
+**Live demo**: 
 
 This UI is based on the following Figma design:
 https://www.figmafreebies.com/download/figma-admin-dashboard-ui-kit/
